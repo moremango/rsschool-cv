@@ -5,7 +5,7 @@ Elena Chernetsova
 
 ## Contact Info
 Email: postal.ogre@gmail.com  
-Telegram: +7 (937) 078-99-52
+Telegram: [+7 (937) 078-99-52](https://t.me/moremango)
 
 ## Summary
 I am looking for interesting challenges, self-improvement, teamwork and career growth. I hope my skills and experience whith UI/UX design will be useful for me in my retraining as Junior DEV
