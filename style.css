@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.resume-title {
+    text-align: center;
+    background-color: blue;
+    color: cornsilk;
+    padding: 5px;
+}
+
+.main-content {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.person {
+    display: flex;
+}
+
+.avatar-container {
+    margin-right: 30px;
+}
+
+.avatar {
+    object-fit: cover;
+    object-position: center top;
+}
